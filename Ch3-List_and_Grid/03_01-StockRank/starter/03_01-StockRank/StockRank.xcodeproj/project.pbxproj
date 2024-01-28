@@ -16,6 +16,8 @@
 		94480103280EE8EE00D7E44C /* StockRankUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94480102280EE8EE00D7E44C /* StockRankUITests.swift */; };
 		94480105280EE8EE00D7E44C /* StockRankUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94480104280EE8EE00D7E44C /* StockRankUITestsLaunchTests.swift */; };
 		94480116280EF1E800D7E44C /* StockModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94480115280EF1E800D7E44C /* StockModel.swift */; };
+		FE0C5B582B64FAAF00AC0184 /* StockRankViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0C5B572B64FAAF00AC0184 /* StockRankViewController.swift */; };
+		FEF3AA192B6680EF0055C4CE /* StockRankCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF3AA182B6680EF0055C4CE /* StockRankCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		94480102280EE8EE00D7E44C /* StockRankUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockRankUITests.swift; sourceTree = "<group>"; };
 		94480104280EE8EE00D7E44C /* StockRankUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockRankUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		94480115280EF1E800D7E44C /* StockModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockModel.swift; sourceTree = "<group>"; };
+		FE0C5B572B64FAAF00AC0184 /* StockRankViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockRankViewController.swift; sourceTree = "<group>"; };
+		FEF3AA182B6680EF0055C4CE /* StockRankCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockRankCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				944800E3280EE8ED00D7E44C /* SceneDelegate.swift */,
 				94480115280EF1E800D7E44C /* StockModel.swift */,
 				944800E7280EE8ED00D7E44C /* Main.storyboard */,
+				FE0C5B572B64FAAF00AC0184 /* StockRankViewController.swift */,
+				FEF3AA182B6680EF0055C4CE /* StockRankCollectionViewCell.swift */,
 				944800EA280EE8EE00D7E44C /* Assets.xcassets */,
 				944800EC280EE8EE00D7E44C /* LaunchScreen.storyboard */,
 				944800EF280EE8EE00D7E44C /* Info.plist */,
@@ -260,7 +266,9 @@
 			files = (
 				944800E2280EE8ED00D7E44C /* AppDelegate.swift in Sources */,
 				94480116280EF1E800D7E44C /* StockModel.swift in Sources */,
+				FEF3AA192B6680EF0055C4CE /* StockRankCollectionViewCell.swift in Sources */,
 				944800E4280EE8ED00D7E44C /* SceneDelegate.swift in Sources */,
+				FE0C5B582B64FAAF00AC0184 /* StockRankViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
